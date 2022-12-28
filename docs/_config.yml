@@ -28,6 +28,18 @@ github_username: raid-toolkit
 
 # Build settings
 theme: just-the-docs
+
+color_scheme: dark2
+callouts_level: loud
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+nav_external_links:
+  - title: Raid Toolkit on GitHub
+    url: https://github.com/raid-toolkit/raid-toolkit-sdk
+
 plugins:
   - jekyll-feed
 # Exclude from processing.
