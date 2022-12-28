@@ -30,9 +30,13 @@ github_username: raid-toolkit
 # theme: just-the-docs
 remote_theme: "pmarsceill/just-the-docs"
 
+logo: "/img/site-logo.png"
 color_scheme: dark2
 callouts_level: loud
 callouts:
+  info:
+    title: Information
+    color: purple
   warning:
     title: Warning
     color: red
