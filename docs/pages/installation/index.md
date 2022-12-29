@@ -11,8 +11,7 @@ has_toc: false
 
 To get started using Raid Toolkit, download the latest public release from the `raid-toolkit-sdk` github releases page:
 
-[Download Raid Toolkit](https://github.com/raid-toolkit/raid-toolkit-sdk/releases/latest)
-{: .btn .btn-purple }
+[Download Raid Toolkit](https://github.com/raid-toolkit/raid-toolkit-sdk/releases/latest){: .btn .btn-purple target="_blank"}
 
 From that page, download `RaidToolkitSetup.exe` and run it.
 
