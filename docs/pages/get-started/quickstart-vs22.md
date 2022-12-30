@@ -22,6 +22,6 @@ Once you have downloaded it, double-click the downloaded `RTKExtensionTemplate.v
 
 In Visual Studio, Create a new project and select the `Raid Toolkit Extension Project` from the list of available templates and give your project a meaningful name.
 
-![](../../img/ProjectCreationDialog.gif)
+![](/img/ProjectCreationDialog.gif)
     
 
