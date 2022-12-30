@@ -6,13 +6,9 @@ title: Home
 layout: home
 ---
 
-[![Nuget](https://img.shields.io/nuget/v/raid.client)](https://www.nuget.org/packages/Raid.Client)
-[![npm (scoped)](https://img.shields.io/npm/v/@raid-toolkit/webclient)](https://www.npmjs.com/package/@raid-toolkit/webclient)
-[![PyPI](https://img.shields.io/pypi/v/raidtoolkit)](https://pypi.org/project/raidtoolkit)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/raid-toolkit/raid-toolkit-sdk)](https://github.com/raid-toolkit/raid-toolkit-sdk/releases/latest)
-![GitHub](https://img.shields.io/github/license/raid-toolkit/raid-toolkit-sdk)
-[![GitHub issues](https://img.shields.io/github/issues/raid-toolkit/raid-toolkit-sdk)](https://github.com/raid-toolkit/raid-toolkit-sdk/issues)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/raid-toolkit/raid-toolkit-sdk/app-publish.yml?branch=main)
+![](/img/rtk-icon.png)
+{:.center}
+
 
 # Raid Toolkit SDK
 
@@ -30,3 +26,12 @@ The mission of RTK is twofold:
 > ### 👩‍💻 Provide a set of well-shaped APIs and data contracts for developers to create new tools
 >
 > Developing applications which read from process memory is difficult and requires constant maintenance. This SDK provides a solution for those developers so they can focus on making great tools, and not pulling out their hair.
+
+[![Nuget](https://img.shields.io/nuget/v/raid.client)](https://www.nuget.org/packages/Raid.Client)
+[![npm (scoped)](https://img.shields.io/npm/v/@raid-toolkit/webclient)](https://www.npmjs.com/package/@raid-toolkit/webclient)
+[![PyPI](https://img.shields.io/pypi/v/raidtoolkit)](https://pypi.org/project/raidtoolkit)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/raid-toolkit/raid-toolkit-sdk)](https://github.com/raid-toolkit/raid-toolkit-sdk/releases/latest)
+![GitHub](https://img.shields.io/github/license/raid-toolkit/raid-toolkit-sdk)
+[![GitHub issues](https://img.shields.io/github/issues/raid-toolkit/raid-toolkit-sdk)](https://github.com/raid-toolkit/raid-toolkit-sdk/issues)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/raid-toolkit/raid-toolkit-sdk/app-publish.yml?branch=main)
+{:.center}
