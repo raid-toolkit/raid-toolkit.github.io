@@ -23,3 +23,12 @@ a[target="_blank"] > svg {
 p.center {
   text-align: center;
 }
+
+.nav-external-divider {
+  flex: 1;
+}
+
+.site-nav {
+  display: flex;
+  flex-direction: column;
+}

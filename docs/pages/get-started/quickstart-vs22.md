@@ -5,6 +5,16 @@ nav_order: 1
 ---
 
 # Using the Visual Studio project template (recommended)
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Before getting started, you'll need the **Raid Toolkit Extension Template** for Visual Studio. We recommend the latest version of VS2022.
 

@@ -78,6 +78,7 @@ layout: table_wrappers
             {% include nav.html pages=site.html_pages key=nil %}
             {% endif %}
             {%- if site.nav_external_links -%}
+            <div class="nav-external-divider"></div>
             <ul class="nav-list">
                 {%- for node in site.nav_external_links -%}
                 <li class="nav-list-item external">

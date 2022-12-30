@@ -3,7 +3,20 @@ parent: Development Guide
 title: Anatomy of an Extension
 ---
 
-An extension consists of essentially two critical parts: a **manifest** and an **extension assembly** (dll)
+# Anatomy of an Extension
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
+An extension consists of essentially two critical parts: a **manifest** and an **extension assembly** (dll). These provide RTK enough information to find your code and load it in its own context.
 
 # Installable package
 

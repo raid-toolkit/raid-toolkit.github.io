@@ -1,5 +1,5 @@
 ---
-parent: Development Guide
+parent: Reference
 title: Extension Manifest Schema
 ---
 

@@ -1,12 +1,23 @@
 ---
-title: Create an extension (VS Code)
+title: Create an extension (dotnet cli)
 parent: Get Started
 nav_order: 2
 ---
 
 # Creating a new extension using `dotnet` cli
+{: .no_toc }
 
-> Before getting started, consider following the Visual Studio project template directions [here](./quickstart-vs22.md).
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+{: .warning }
+> Before getting started, this approach require many more manual steps to get working. Consider following the Visual Studio project template directions [here](./quickstart-vs22.md), even if you ultimately do the remainder of development using the VSCode/dotnet etc.
 
 ## Create a new classlib project
 
@@ -91,7 +102,7 @@ namespace SampleExtension01
 
 ## Add a manifest
 
-Create a new file `manifest.json` in your project root directory with the following contents. See [Manifest Schema](../development-guide/manifest-schema.md) for more details on the contents of this file.
+Create a new file `manifest.json` in your project root directory with the following contents. See [Manifest Schema](../reference/manifest-schema.md) for more details on the contents of this file.
 
 ```json
 {

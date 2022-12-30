@@ -34,6 +34,12 @@ logo: "/img/site-logo.png"
 color_scheme: dark2
 callouts_level: loud
 callouts:
+  tip:
+    title: 💡Tip
+    color: purple
+  important:
+    title: Important
+    color: yellow
   info:
     title: Information
     color: purple
