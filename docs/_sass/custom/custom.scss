@@ -41,18 +41,20 @@ html[data-theme="dark"] {
   color-scheme: dark;
 }
 
+@media (max-width: 50rem) {
+  .main-header.nav-open {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 .theme-toggle-container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  align-self: center;
   display: flex;
-  position: fixed;
-  right: 0px;
-  top: 10vh;
-  padding: 10px;
-  background-color: $body-background-color;
-  border-top: 1px solid $border-color;
-  border-left: 1px solid $border-color;
-  border-bottom: 1px solid $border-color;
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
+  flex-direction: row;
+  align-items: center;
 }
 
 .sun-and-moon > :is(.moon, .sun, .sun-beams) {
