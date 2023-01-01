@@ -21,7 +21,7 @@ nav_order: 2
 
 ## Create a new classlib project
 
-To start, we will base our extension off of a basic classlib project. We need to **be sure to specify `net6.0-windows10.0.19041` as our target framework**:
+To start, we will base our extension off of a basic classlib project. We need to **be sure to specify `net6.0-windows10.0.19041` as your target framework**:
 
 ```ps
 > dotnet new classlib --name SampleExtension --framework net6.0 --target-framework-override net6.0-windows10.0.19041
