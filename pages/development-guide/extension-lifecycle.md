@@ -1,4 +1,5 @@
 ---
+layout: default
 parent: Development Guide
 title: Extension Lifecycle
 ---

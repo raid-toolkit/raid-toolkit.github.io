@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Using the Web API
 parent: Get Started
 nav_order: 3

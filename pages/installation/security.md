@@ -1,4 +1,5 @@
 ---
+layout: default
 parent: Installation
 title: Security Notice
 ---

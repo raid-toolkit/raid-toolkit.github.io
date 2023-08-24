@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Create an extension (VS2022)
 parent: Get Started
 nav_order: 1

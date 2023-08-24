@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Create an extension (dotnet cli)
 parent: Get Started
 nav_order: 2

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Nag me not!
 parent: Extensions
 nav_order: 1

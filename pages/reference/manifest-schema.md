@@ -1,4 +1,5 @@
 ---
+layout: default
 parent: Reference
 title: Extension Manifest Schema
 ---

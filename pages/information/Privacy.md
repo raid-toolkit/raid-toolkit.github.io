@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Privacy Policy
 parent: Information
 nav_order: 1
